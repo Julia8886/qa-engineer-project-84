@@ -1,6 +1,4 @@
----
-test-cases:
-  - summary: |
+ - summary: |
       Добавление товара в корзину из карточек
     status: pass
     
