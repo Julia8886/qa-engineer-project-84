@@ -3,22 +3,22 @@
       Добавление товара в корзину из карточек
     status: pass
     
-  - summary: |
+ - summary: |
       Оформление заказа не авторизованным пользователем 
     status: pass
     
-  - summary: |
+ - summary: |
       Оформление заказа авторизованным пользователем
     status: fail
     
-  - summary: |
+ - summary: |
       Поиск товара по неполному названию
     status: fail
     
-  - summary: |
+ - summary: |
       Изменение количества товара в корзине
     status: pass
     
-  - summary: |
+ - summary: |
       Сортировка товаров по цене (от меньшей к большей)
     status: pass
