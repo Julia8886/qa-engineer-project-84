@@ -1,24 +1,24 @@
 
  - summary: |
       Добавление товара в корзину из карточек
-   status: pass
+    status: pass
     
  - summary: |
       Оформление заказа не авторизованным пользователем 
-   status: pass
+    status: pass
     
  - summary: |
       Оформление заказа авторизованным пользователем
-   status: fail
+    status: fail
     
  - summary: |
       Поиск товара по неполному названию
-   status: fail
+    status: fail
     
  - summary: |
       Изменение количества товара в корзине
-   status: pass
+    status: pass
     
  - summary: |
       Сортировка товаров по цене (от меньшей к большей)
-   status: pass
+    status: pass
